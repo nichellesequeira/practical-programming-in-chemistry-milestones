@@ -9,8 +9,8 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 
 | Week | Milestone                                   | Link                                                         |
 |------|---------------------------------------------|--------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`nichellesequeira` |
-| 1    | Github Profile Page Updated                 | https://github.com/`nichellesequeira`/`nichellesequeira` |
+| 1    | Github Account Created                      | https://github.com/nichellesequeira |
+| 1    | Github Profile Page Updated                 | https://github.com/nichellesequeira/nichellesequeira |
 | 1    | Commit and Push Change from Command Line    | https://github.com/nichellesequeira/ppchem/commit/2ce55314e15aa0828bd60cab1176a8ec1f57e11f |
 | 1    | Create a New Branch                         | https://github.com/nichellesequeira/ppchem/tree/new-branch-name |
 | 1    | Create a conda environment                  | https://github.com/`nichellesequeira`/`repo-name`/blob/`branch-name`/`env.yml` |
