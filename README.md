@@ -8,6 +8,7 @@ The **personal milestones table** outlines key milestones for practical programm
 <<<<<<< HEAD
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
+<<<<<<< HEAD
 | 1    | Github Account Created                      | https://github.com/`username`                                               | 
 | 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
@@ -24,9 +25,17 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a conda environment                  | https://github.com/nichellesequeira/ppchem/blob/main/env.yml|
 | 1    | Fork a Repo                                 | https://github.com/nichellesequeira/practical-programming-in-chemistry-milestones/blob/main/README.md |
 >>>>>>> 669f426758e6467fbf686f88f71a3ce8b742cebe
+=======
+| 1    | Github Account Created                      | https://github.com/nichellesequeira                                         | 
+| 1    | Github Profile Page                         | https://github.com/nichellesequeira/nichellesequeira                        |
+| 1    | Commit and Push Change from Command Line    | https://github.com/nichellesequeira/ppchem/commit/2ce55314e15aa0828bd60cab1176a8ec1f57e11f |
+| 1    | Create a New Branch                         | https://github.com/nichellesequeira/ppchem/tree/new-branch-name             |
+| 1    | Create a conda environment                  | https://github.com/nichellesequeira/ppchem/blob/main/env.yml                |
+| 1    | Fork a Repo                                 | https://github.com/nichellesequeira/practical-programming-in-chemistry-milestones/blob/main/README.md |
+>>>>>>> 7b6941c12cad7eeac88eab82a7ecedd59bf9ca8f
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/nichellesequeira/ppchem/pull/1 |
 
 **More milestones will be added throughout the course.**
 
