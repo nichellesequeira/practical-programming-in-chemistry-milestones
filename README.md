@@ -5,6 +5,7 @@ The **personal milestones table** outlines key milestones for practical programm
 **Link:** They should insert the actual URL where they achieved each milestone into the `Link` column. For example, they would link directly to their updated profile, the forked repository, the specific commit, the pull request they made, or the pull request they reviewed. :exclamation: Replace the placeholders (including `'`) with the actual URLs :exclamation: - only the marked sections will change.
 
 
+<<<<<<< HEAD
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/`username`                                               | 
@@ -13,6 +14,16 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
 | 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+=======
+| Week | Milestone                                   | Link                                                         |
+|------|---------------------------------------------|--------------------------------------------------------------|
+| 1    | Github Account Created                      | https://github.com/nichellesequeira |
+| 1    | Github Profile Page Updated                 | https://github.com/nichellesequeira/nichellesequeira |
+| 1    | Commit and Push Change from Command Line    | https://github.com/nichellesequeira/ppchem/commit/2ce55314e15aa0828bd60cab1176a8ec1f57e11f |
+| 1    | Create a New Branch                         | https://github.com/nichellesequeira/ppchem/tree/new-branch-name |
+| 1    | Create a conda environment                  | https://github.com/nichellesequeira/ppchem/blob/main/env.yml|
+| 1    | Fork a Repo                                 | https://github.com/nichellesequeira/practical-programming-in-chemistry-milestones/blob/main/README.md |
+>>>>>>> 669f426758e6467fbf686f88f71a3ce8b742cebe
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
